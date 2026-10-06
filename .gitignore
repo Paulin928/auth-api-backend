@@ -23,3 +23,20 @@ Thumbs.db
 
 # Docker volumes locaux
 postgres_data/
+
+# ===== Flutter (flutter_auth_app) =====
+flutter_auth_app/.dart_tool/
+flutter_auth_app/.packages
+flutter_auth_app/.flutter-plugins
+flutter_auth_app/.flutter-plugins-dependencies
+flutter_auth_app/build/
+flutter_auth_app/.idea/
+flutter_auth_app/*.iml
+flutter_auth_app/android/.gradle/
+flutter_auth_app/ios/Pods/
+flutter_auth_app/.metadata
+
+# Dart/Flutter générique (au cas où)
+*.dart_tool/
+.packages
+build/
